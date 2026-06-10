@@ -1,6 +1,7 @@
 # 🌐 Gunasekaran V – Academic Portfolio Website
-
-Welcome to my personal academic portfolio website!
+https://gunasekaran.netlify.app/
+Welcome to my personal academic portfolio website! 
+https://gunasekaran.netlify.app/
 
 I am **Gunasekaran V**, a **PhD Research Scholar at VIT Vellore**, specializing in:
 
