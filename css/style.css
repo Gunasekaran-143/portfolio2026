@@ -469,6 +469,7 @@ textarea {
     color: var(--color-text-light);
     font-size: var(--fs-sm);
     animation: bounce 2s infinite;
+    margin-bottom: -20px;
 }
 
 .hero__scroll i {
