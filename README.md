@@ -1,19 +1,19 @@
-# 🌐 Gunasekaran V – Academic Portfolio Website
-https://gunasekaran.netlify.app/
+# Gunasekaran V – Academic Portfolio Website
+
 Welcome to my personal academic portfolio website! 
 https://gunasekaran.netlify.app/
 
 I am **Gunasekaran V**, a **PhD Research Scholar at VIT Vellore**, specializing in:
 
-* 🚗 Autonomous Vehicles
-* 👁️ Computer Vision
-* 🛣️ Lane Detection & Lane Management
-* 🤖 Machine Learning & Deep Learning
-* 🚦 Intelligent Transportation Systems
+*  Autonomous Vehicles
+*  Computer Vision
+*  Lane Detection & Lane Management
+*  Machine Learning & Deep Learning
+*  Intelligent Transportation Systems
 
 This website showcases my academic journey, research interests, publications, projects, technical skills, and professional profiles.
 
-## ✨ Website Features
+##  Website Features
 
 * Modern responsive design
 * Dark/Light theme support
@@ -24,13 +24,13 @@ This website showcases my academic journey, research interests, publications, pr
 * Mobile-friendly interface
 * Fast loading and SEO optimized
 
-## 🎓 Education
+## Education
 
 * PhD in Computer Science and Engineering – VIT Vellore (Present)
 * MCA – VIT Vellore (CGPA: 8.83)
 * BCA – VIT Vellore (CGPA: 8.65)
 
-## 🔬 Research Interests
+##  Research Interests
 
 * Adaptive Lane Management
 * Autonomous Driving Systems
@@ -39,7 +39,7 @@ This website showcases my academic journey, research interests, publications, pr
 * Semantic Segmentation
 * Intelligent Transportation Systems
 
-## 📚 Publications
+## Publications
 
 My research contributions include publications in:
 
@@ -47,11 +47,11 @@ My research contributions include publications in:
 * IEEE Conferences
 * Springer Proceedings
 
-## 🌍 Live Website
+##  Live Website
 
 Visit the portfolio here:
 
-👉 [Your Netlify Website Link]
+👉 [(https://gunasekaran.netlify.app/)]
 
 ## 🔗 Connect With Me
 
@@ -69,17 +69,17 @@ Visit the portfolio here:
 * Citation metrics dashboard
 * AI-powered research assistant
 
-## ⭐ Support
+##  Support
 
 If you find this project useful, please consider:
 
-⭐ Starring the repository
+ Starring the repository
 
-👨‍💻 Following my GitHub profile
+ Following my GitHub profile
 
-🔗 Connecting with me on LinkedIn
+ Connecting with me on LinkedIn
 
-📚 Following my research on Google Scholar
+ Following my research on Google Scholar
 
 Your support motivates me to continue developing impactful research and open-source projects.
 
